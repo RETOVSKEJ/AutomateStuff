@@ -1,4 +1,4 @@
 # AutomateStuff
 
-+YT playlist downloader
-+Downloads folder segragator
++ YT playlist downloader
++ Downloads folder segragator
